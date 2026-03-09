@@ -1,0 +1,11 @@
+Patients
+ID,Name,Age,History
+1,Alice,30,
+
+Doctors
+ID,Name,Specialty
+1,Dr. Bob,General
+
+Appointments
+ApptID,PatientID,DoctorID,Date,Time
+1,1,1,2026-03-10,09:00

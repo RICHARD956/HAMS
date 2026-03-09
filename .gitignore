@@ -1,0 +1,22 @@
+# Build artifacts
+*.exe
+*.o
+*.obj
+*.bin
+
+# Data file
+hams_data.bin
+
+# VS Code settings and build folders
+.vscode/
+
+# Backup files
+*~
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# CMake / Make
+outDebug/
